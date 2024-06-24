@@ -1,0 +1,6 @@
+.box {
+        background-color: aliceblue;
+        border: dotted 2px cadetblue;
+        width: 80px;
+        height: 80px;        
+    }

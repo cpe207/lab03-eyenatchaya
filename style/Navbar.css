@@ -1,0 +1,25 @@
+body{
+    font-family: "Prompt";
+    background-color: orange;
+}
+.nav-links {
+    margin-top:20px;
+    text-align: right; 
+    margin-right: 20px; 
+    margin-bottom: 20px; 
+}
+
+.nav-links a {
+    display: inline-block; 
+    margin-left: 20px; 
+    padding: 5px 20px; 
+    border-radius: 25px; 
+    text-decoration: none; 
+    color: rgb(0, 0, 0); 
+    font-size: 20px; 
+    background-color: yellow; 
+}
+
+.nav-links a:hover {
+    background-color: rgb(255, 255, 255); 
+}
