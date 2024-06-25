@@ -1,10 +1,11 @@
 body{
     font-family: "Prompt";
-    background-color: orange;
+    background-position: center;
+    background-color: rgb(242, 170, 36);
 }
 .nav-links {
     margin-top:20px;
-    text-align: right; 
+    text-align: center; 
     margin-right: 20px; 
     margin-bottom: 20px; 
 }
